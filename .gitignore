@@ -1,5 +1,5 @@
-bin
-obj
+bin/
+obj/
 articlecode.cbp
 articlecode.depend
 articlecode.layout
